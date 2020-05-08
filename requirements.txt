@@ -1,0 +1,15 @@
+scikit-learn
+tensorflow     
+numpy      
+pandas           
+matplotlib
+jupyter
+scipy.io.wavfile
+pickle
+librosa
+json
+zipfile
+sklearn
+wget
+IPython
+h5py
